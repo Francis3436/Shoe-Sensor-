@@ -1,0 +1,8 @@
+Camera holder 2.0: original
+
+3.0: lens circles moved up 1 mm from 2.0 model, camera thickness decreased from 7 mm to 6.5 mm, 
+lens thickness decreased from 6mm to 5.5 mm
+
+4.0: (updated from 3.0) camera pi width decreased from 27 mm to 26 mm 
+
+5.0: (updated from 4.0) camera thickness decreased from 6.5 mm to 6 mm, camera lens thickness decreased from 5.5mm to 5mm
